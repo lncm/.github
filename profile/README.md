@@ -1,5 +1,3 @@
-![LNCM](https://lncm.github.io/static/logo-df13ca95024f318881e91721d9086a33.png)
-
 [![Gitter](https://badges.gitter.im/lncm/community.svg)](https://gitter.im/lncm/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # About Us
