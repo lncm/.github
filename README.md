@@ -1,2 +1,0 @@
-# .github
-Introducing LNCM
